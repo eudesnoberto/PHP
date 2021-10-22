@@ -3,7 +3,7 @@
 namespace app\controllers;
 
 
-class State
+class States
 {
 
     public function index()

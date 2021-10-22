@@ -16,7 +16,7 @@ return [
 	'/' => 'Home@index',
 	'/user/create' => 'User@create',
 	'/user/[0-9]+' => 'User@show',
-	'/api/states' => 'State@index',
+	'/api/states' => 'States@index',
 	'/api/cites' => 'Cite@index',
 	'/resp/[0-9]+' => 'Resp@show',
 	'/login' => 'Login@index',

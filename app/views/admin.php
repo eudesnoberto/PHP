@@ -17,7 +17,7 @@
 				<div class="main-input">
 
 	<input type="text" name="email" class="contact-input" value="eudes.sna@gmail.com">
-	<input type="password" name="password" class="contact-input" value="Stage.7997">			
+	<input type="password" name="password" class="contact-input" value="">			
 
 				</div>
 				<div class="text-right">

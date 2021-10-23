@@ -124,6 +124,10 @@
    </footer>
    <!-- Footer -->
 
+<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+
    <!-- jQuery and Bootstrap JS -->
    <script src="https://www.cdfnew.tk/assets/js/jquery-3.3.1.min.js"></script>
    <script src="https://www.cdfnew.tk/assets/js/bootstrap.min.js"></script>

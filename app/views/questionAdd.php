@@ -1,7 +1,9 @@
 
 <?php $this->layout('master', ['title' => $title]) ?>
-<?php if(!logado() OR !logger()): redirect('/'); endif; ?>
-<?php echo getFlash('message'); ?>
+<? // if(!logado() OR !logger()): redirect('/'); endif; ?>
+<?php echo getFlash('message'); 
+
+?>
 
 
 <section class="w3l-contacts-12" id="contact">

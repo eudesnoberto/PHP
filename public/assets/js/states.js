@@ -2,7 +2,7 @@ import	http from './http';
 
 export default async function states() {
 	try{
-		const { data } = await http.get("/api/states");
+		const  {data}  = await http.get("/api/states");
 
 		const states = document.querySelector("#states"); 
 		
